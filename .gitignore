@@ -1,0 +1,11 @@
+# Local source footage and rendered media stay off GitHub
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.wav
+*.aac
+/source/
+/frames/
+/out/
+*.log
